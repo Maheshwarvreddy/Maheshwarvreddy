@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Maheshwarvreddy
 - 👀 I’m interested in  tech
-- 🌱 I’m currently learning  coding
-- 💞️ I’m looking to collaborate on gaming
+
+
 
 
 <!---
